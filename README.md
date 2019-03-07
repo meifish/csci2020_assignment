@@ -1,6 +1,6 @@
 # csci2020_assignment
 ## JavaFx ##
-- Pocker Card Random Display
+- ** Pocker Card Random Display **
 <img src="https://github.com/meifish/csci2020_assignment/blob/master/demo/poker.jpg" width="400">
 
 - Interest Calculator
