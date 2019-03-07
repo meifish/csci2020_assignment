@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 import javafx.application.Application;
 import javafx.beans.binding.DoubleBinding;
 import javafx.beans.binding.StringBinding;
@@ -846,5 +844,4 @@ public class CircleTrack extends Application {
     public static void main(String[] args) {
         launch(args);
     }
->>>>>>> e086f85376e27b7f5a3b309755c116e8daf10d44
 }
