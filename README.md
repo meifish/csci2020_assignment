@@ -17,6 +17,8 @@ Recommend Java JDK version: java jdk 1.8.0_191
 3. After successfully compiled, run the java application with the command:
    > java `FILENAME`
 
+
+## Demo ##
 - **Pocker Card Random Display**
 <img src="https://github.com/meifish/csci2020_assignment/blob/master/demo/poker.jpg" width="400">
 
