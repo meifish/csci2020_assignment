@@ -6,10 +6,10 @@
 - **Interest Calculator**
 <img src="https://github.com/meifish/csci2020_assignment/blob/master/demo/Interest_Calculator.jpg" width="400">
 
-- Interactive Triangle Angles Display
+- **Interactive Triangle Angles Display**
 <img src="https://github.com/meifish/csci2020_assignment/blob/master/demo/Triangle_angle_interaction.jpg" width="400">
 
-- Letter Counter in Files
+- **Letter Counter in Files**
 <img src="https://github.com/meifish/csci2020_assignment/blob/master/demo/letter_count_in_file.jpg" width="400">
 
 
