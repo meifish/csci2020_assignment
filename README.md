@@ -1,5 +1,5 @@
 # csci2020_assignment
-##JavaFx##
+## JavaFx ##
 
 Recommend Java JDK version: java jdk 1.8.0_191
 
