@@ -1,5 +1,5 @@
 # csci2020_assignment
-## JavaFx ##
+## JavaFx GUI ##
 - **Pocker Card Random Display**
 <img src="https://github.com/meifish/csci2020_assignment/blob/master/demo/poker.jpg" width="400">
 
