@@ -1,16 +1,16 @@
 # csci2020_assignment
 ## JavaFx ##
 - Pocker Card Random Display
-![Poker Card](https://github.com/meifish/csci2020_assignment/blob/master/demo/poker.jpg| width=100)
+![Poker Card](https://github.com/meifish/csci2020_assignment/blob/master/demo/poker.jpg | width=100)
 
 - Interest Calculator
-![Interest_Calculator](https://github.com/meifish/csci2020_assignment/blob/master/demo/Interest_Calculator.jpg| width=100)
+![Interest_Calculator](https://github.com/meifish/csci2020_assignment/blob/master/demo/Interest_Calculator.jpg | width=100)
 
 - Interactive Triangle Angles Display
-![Triangle_Calculator](https://github.com/meifish/csci2020_assignment/blob/master/demo/Triangle_angle_interaction.jpg| width=100)
+![Triangle_Calculator](https://github.com/meifish/csci2020_assignment/blob/master/demo/Triangle_angle_interaction.jpg | width=100)
 
 - Letter Counter in Files
-![Letter_Count_in_File](https://github.com/meifish/csci2020_assignment/blob/master/demo/letter_count_in_file.jpg| width=100)
+![Letter_Count_in_File](https://github.com/meifish/csci2020_assignment/blob/master/demo/letter_count_in_file.jpg | width=100)
 
 
 ## How To Run ##
