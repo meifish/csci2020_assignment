@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 import javafx.application.Application;
 import javafx.geometry.HPos;
 import javafx.geometry.Insets;
@@ -210,4 +208,4 @@ public class InvestCalculator extends Application {
 
 }
 
->>>>>>> e086f85376e27b7f5a3b309755c116e8daf10d44
+
