@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 import java.util.Random;
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -156,4 +154,4 @@ public class Poker extends Application {
         launch(args);
     }
 }
->>>>>>> e086f85376e27b7f5a3b309755c116e8daf10d44
+
